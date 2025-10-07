@@ -1,3 +1,4 @@
+#poofpy/emums.py
 from enum import Enum
 class CryptoCurrencies(Enum):
     Bitcoin = "btc"
